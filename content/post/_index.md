@@ -1,5 +1,5 @@
 ---
-title: A propos
+title: Posts
 
 # View.
 #   1 = List
