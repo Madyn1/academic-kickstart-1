@@ -23,9 +23,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 - Nos centres d'intérêt:
 
 
-- education:
--  course:
-    - course: PhD in Artificial Intelligence
+# - education:
+# -  course:
+#    - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Fem_Data
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
