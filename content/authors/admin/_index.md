@@ -23,9 +23,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 - Nos centres d'intérêt:
 
 
-# - education:
-# -  course:
-#    - course: PhD in Artificial Intelligence
+- education:
+-  course:
+   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
